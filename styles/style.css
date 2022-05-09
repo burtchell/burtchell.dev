@@ -14,6 +14,9 @@ body {
   background-color: var(--nord0);
   color: var(--nord6);
   margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .header,
@@ -39,7 +42,8 @@ body {
   font-size: 20px;
 }
 
-.header ul {
+.header ul,
+.footer ul {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -47,12 +51,14 @@ body {
   gap: 32px;
 }
 
-.header a {
+.header a,
+.footer a {
   text-decoration: none;
   color: var(--nord6);
 }
 
-.header .right a:hover {
+.header .right a:hover,
+.footer a:hover {
   color: var(--nord8);
 }
 
@@ -94,4 +100,18 @@ p {
   font-size: 18px;
   padding: 0;
   margin: 8px 0;
+}
+
+.footer {
+  background-color: var(--nord1);
+  font-size: 32px;
+  padding: 16px var(--side-gutter);
+
+  margin-top: auto;
+  text-align: center;
+  justify-self: end;
+}
+
+.footer ul {
+  justify-content: center;
 }
