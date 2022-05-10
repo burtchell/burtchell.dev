@@ -17,10 +17,8 @@ darkModeToggleBtn.addEventListener("click", function () {
 
 // function definition
 function toggleDarkMode() {
-  console.log("click");
   bodyEl.classList.toggle("dark-mode");
   Array.prototype.forEach.call(linkEls, function (link) {
-    console.log(link.tagName);
     link.classList.toggle("dark-mode");
   });
 
