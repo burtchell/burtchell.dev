@@ -1,46 +1,37 @@
 @import "/styles/nord.css";
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
 
-:root {
-  --side-gutter: 15%;
-}
-
+/* global styling */
 * {
   font-family: "Nunito Sans", sans-serif;
 }
 
 body {
-  background-color: var(--nord6);
-  color: var(--nord0);
+  /* dark mode colors by default */
+  background-color: var(--nord0);
+  color: var(--nord6);
   padding: 0;
   margin: 24px auto;
 }
 
-.header,
-.content,
-.footer {
+.container {
   max-width: 900px;
   padding: 0 24px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.header {
+/* navbar styling */
+nav .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   gap: 8px 36px;
-  margin: 16px auto;
-}
-.header .left {
   font-size: 24px;
 }
 
-.header .right {
-  font-size: 20px;
-}
-
-.header ul,
-.footer ul {
+nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -48,28 +39,26 @@ body {
   gap: 32px;
 }
 
-.header li,
-.footer li {
+nav li {
   padding: 0;
   margin: 0;
 }
 
-.header a,
-.footer a {
+nav a {
   text-decoration: none;
-  color: var(--nord0);
+  color: var(--nord6);
 }
 
-.header .right a:hover,
-.footer a:hover {
+nav a:hover {
   color: var(--nord8);
 }
 
-.content {
+/* main content styling */
+main {
   margin: 32px auto;
 }
 
-.hero {
+main .hero .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -79,14 +68,14 @@ body {
   margin-bottom: 48px;
 }
 
-.content .hero img {
+main .hero img {
   width: 300px;
   border-radius: 50%;
   margin: 0;
   padding: 0;
 }
 
-.content .hero .right {
+main .hero .right {
   width: 50%;
   flex-shrink: 1;
   flex-grow: 1;
@@ -111,22 +100,9 @@ p {
   margin: 8px 0;
 }
 
-.footer {
-  font-size: 32px;
-  margin: 16px auto;
-
-  margin-top: auto;
-  text-align: center;
-  justify-self: end;
-}
-
-.footer ul {
-  justify-content: center;
-}
-
-/* dark mode toggles */
-body.dark-mode,
-a.dark-mode {
-  background-color: var(--nord0);
-  color: var(--nord6);
+/* light-dark mode class toggles */
+body.light-mode,
+a.light-mode {
+  background-color: var(--nord6);
+  color: var(--nord0);
 }

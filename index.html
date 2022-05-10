@@ -11,49 +11,51 @@
     ></script>
     <title>Burtchell / Home</title>
   </head>
-  <body class="dark-mode">
-    <div class="header">
-      <div class="left">Brandon Alexander Burtchell</div>
-      <div class="right">
-        <ul>
-          <li>
-            <a class="dark-mode" href="https://github.com/dukeofjukes"
-              ><i class="fa-brands fa-github"></i
-            ></a>
-          </li>
-          <li>
-            <a
-              class="dark-mode"
-              href="https://www.linkedin.com/in/brandon-burtchell/"
-              ><i class="fa-brands fa-linkedin"></i
-            ></a>
-          </li>
-          <li>
-            <a class="dark-mode" id="dark-mode-toggle">
-              <i class="fa-solid fa-moon"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="content">
-      <div class="hero">
-        <img src="/images/profile.png" alt="photo of me" />
+  <body>
+    <nav>
+      <div class="container">
+        <div class="left">Brandon Alexander Burtchell</div>
         <div class="right">
-          <h1>Hi! I'm Brandon.</h1>
-          <p>
-            I'm currently pursuing my M.S in Computer Science at Texas State
-            University.
-          </p>
-          <p>
-            My interests include parallel computing, web development, and game
-            development.
-          </p>
+          <ul>
+            <li>
+              <a href="https://github.com/dukeofjukes"
+                ><i class="fa-brands fa-github"></i
+              ></a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/brandon-burtchell/"
+                ><i class="fa-brands fa-linkedin"></i
+              ></a>
+            </li>
+            <li>
+              <a id="light-dark-mode-toggle">
+                <i class="fa-solid fa-moon"></i>
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
-    </div>
+    </nav>
 
-    <script src="/index.js"></script>
+    <main>
+      <div class="hero">
+        <div class="container">
+          <img src="/images/profile.png" alt="photo of me" />
+          <div class="right">
+            <h1>Hi! I'm Brandon.</h1>
+            <p>
+              I'm currently pursuing my M.S in Computer Science at Texas State
+              University.
+            </p>
+            <p>
+              My interests include parallel computing, web development, and game
+              development.
+            </p>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script src="/scripts/light-dark-mode.js"></script>
   </body>
 </html>
