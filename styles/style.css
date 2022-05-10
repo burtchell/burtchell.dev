@@ -10,11 +10,10 @@
 }
 
 body {
-  background-color: var(--nord0);
-  color: var(--nord6);
+  background-color: var(--nord6);
+  color: var(--nord0);
   padding: 0;
   margin: 24px auto;
-  min-height: 100vh;
 }
 
 .header,
@@ -58,7 +57,7 @@ body {
 .header a,
 .footer a {
   text-decoration: none;
-  color: var(--nord6);
+  color: var(--nord0);
 }
 
 .header .right a:hover,
@@ -123,4 +122,11 @@ p {
 
 .footer ul {
   justify-content: center;
+}
+
+/* dark mode toggles */
+body.dark-mode,
+a.dark-mode {
+  background-color: var(--nord0);
+  color: var(--nord6);
 }
