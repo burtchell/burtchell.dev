@@ -3,6 +3,6 @@ title: Home
 layout: homepage
 ---
 
-# (Placeholder)
+# Under construction!
 
-todo: add resume here
+Pardon this dust. Currently testing Jekyll conversion of this site.

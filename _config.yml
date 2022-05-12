@@ -1,6 +1,11 @@
-name: burtchell.dev
-url: https://burtchell.dev
 title: Burtchell
+email: brandon@burtchell.dev
+description: >-
+  M.S in Computer Science at Texas State University.
+domain: burtchell.dev
+url: https://burtchell.dev
+baseurl: ""
+github_username: dukeofjukes
 
 # github-pages configs
 lsi: false
@@ -13,5 +18,3 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-# for future reference, follow this site when adding blog posts:
-# https://jekyllrb.com/tutorials/convert-site-to-jekyll/
