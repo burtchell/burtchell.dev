@@ -1,0 +1,20 @@
+title: Burtchell
+email: brandon@burtchell.dev
+description: >-
+  M.S in Computer Science at Texas State University.
+domain: burtchell.dev
+url: https://burtchell.dev
+baseurl: ""
+github_username: dukeofjukes
+
+# github-pages configs
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
