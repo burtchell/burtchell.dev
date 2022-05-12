@@ -1,5 +1,17 @@
 name: burtchell.dev
 url: https://burtchell.dev
 title: Burtchell
+
+# github-pages configs
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 # for future reference, follow this site when adding blog posts:
 # https://jekyllrb.com/tutorials/convert-site-to-jekyll/
