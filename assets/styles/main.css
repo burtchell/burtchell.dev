@@ -22,12 +22,19 @@ body {
 }
 
 /* navbar styling */
-nav .container {
+nav.header .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   gap: 8px 36px;
+  font-size: 24px;
+}
+
+nav.footer .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 24px;
 }
 
@@ -94,15 +101,51 @@ h2 {
   font-size: 28px;
 }
 
+h3 {
+  font-size: 28px;
+  font-weight: normal;
+  text-align: center;
+  margin: 32px 0 16px 0;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: normal;
+  margin: 16px 0 8px 0;
+}
+
+h5 {
+  font-size: 14px;
+  font-weight: normal;
+  font-style: italic;
+  margin: 8px 0;
+}
+
 p {
   font-size: 18px;
   padding: 0;
   margin: 8px 0;
 }
 
+ul,
+ol {
+  font-size: 18px;
+  padding: 0;
+  margin: 8px 0;
+  margin-left: 64px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--nord8);
+}
+
 /* light-dark mode class toggles */
 body.light-mode,
-a.light-mode {
+nav a.light-mode {
   background-color: var(--nord6);
   color: var(--nord0);
+}
+nav a.light-mode:hover {
+  color: var(--nord8);
 }

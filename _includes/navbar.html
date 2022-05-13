@@ -1,17 +1,15 @@
-<nav>
+<nav class="header">
   <div class="container">
-    <div class="left">Brandon Alexander Burtchell</div>
+    <div class="left">
+      <a href="{{ '/' | relative_url }}"> Brandon Alexander Burtchell </a>
+    </div>
     <div class="right">
       <ul>
         <li>
-          <a href="https://github.com/dukeofjukes"
-            ><i class="fa-brands fa-github"></i
-          ></a>
+          <a href="{{ '/cv' | relative_url }}">cv</a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/brandon-burtchell/"
-            ><i class="fa-brands fa-linkedin"></i
-          ></a>
+          <a href="{{ '/contact' | relative_url }}">contact</a>
         </li>
         <li>
           <a id="light-dark-mode-toggle">
