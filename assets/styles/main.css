@@ -106,6 +106,7 @@ h3 {
   font-weight: normal;
   text-align: center;
   margin: 32px 0 16px 0;
+  border-bottom: 1px solid;
 }
 
 h4 {
