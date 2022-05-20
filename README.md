@@ -4,6 +4,4 @@ My personal website created with a bare-bones [Jekyll](https://jekyllrb.com/) te
 
 ## TODO:
 
-- add resume/portfolio to homepage
 - add a blog page (using Jekyll posts)
-- add a contact page
