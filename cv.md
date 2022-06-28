@@ -23,7 +23,7 @@ layout: heropage
 #### Burtchell, B., Finch, M., and Chen, X. "Self-Driving Vehicle Data Scheduling in Edge Clouds."
 
 - Completed as part of the National Science Foundation (NSF) Research Experiences for Undergraduates in Smart & Connected Communities ([REU S&CC](https://reuscc.wp.txstate.edu/))
-- In progress for submission to [REUNS 2022](https://sites.google.com/view/reuns2021/home)
+- Awaiting acceptance into [REUNS 2022](https://sites.google.com/view/reuns-2022/home)
 - Developed scheduling algorithms to make processing in a self-driving vehicle more efficient
 
 ### Awards
