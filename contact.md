@@ -3,4 +3,6 @@ title: Contact
 layout: default
 ---
 
-email: {{ site.email }}
+For school/research-related inquiries: burtchell@txstate.edu
+
+For everything else: {{ site.email }}
