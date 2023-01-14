@@ -5,9 +5,9 @@ layout: heropage
 
 ### Education
 
-#### M.S. Computer Science - Texas State University
+#### Ph.D. Computer Science - Texas State University
 
-##### Ongoing (Expected Graduation: May 2024)
+##### 2022 - Present
 
 - Concentration in Software Engineering with Thesis
 
@@ -22,9 +22,9 @@ layout: heropage
 
 #### Burtchell, B., Finch, M., and Chen, X. "Self-Driving Vehicle Data Scheduling in Edge Clouds."
 
-- Completed as part of the National Science Foundation (NSF) Research Experiences for Undergraduates in Smart & Connected Communities ([REU S&CC](https://reuscc.wp.txstate.edu/))
-- Accepted into [REUNS 2022](https://sites.google.com/view/reuns-2022/home)
-- Developed scheduling algorithms to make processing in a self-driving vehicle more efficient
+- Proposed scheduling algorithms to make processing data in a self-driving vehicle more efficient
+- Conducted as part of the Research Experiences for Undergraduates (REU) in Smart & Connected Communities 2021 (reuscc.wp.txstate.edu)
+- Presented at the National Workshop for REU Research in Networking and Systems 2022 (sites.google.com/view/reuns-2022/home)
 
 ### Awards
 
