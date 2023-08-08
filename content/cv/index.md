@@ -19,8 +19,8 @@ title: "cv"
 
 ### Burtchell, B., Finch, M., and Chen, X. "Self-Driving Vehicle Data Scheduling in Edge Clouds." ([link](./pdf/self_driving_vehicle_data_scheduling_in_edge_clouds.pdf))
 - Proposed scheduling algorithms to make processing data in a self-driving vehicle more efficient
-- Conducted as part of the Research Experiences for Undergraduates (REU) in Smart & Connected Communities 2021 ([link](reuscc.wp.txstate.edu))
-- Presented at the National Workshop for REU Research in Networking and Systems 2022 ([link](sites.google.com/view/reuns-2022/home))
+- Conducted as part of the Research Experiences for Undergraduates (REU) in Smart & Connected Communities 2021 ([link](https://reuscc.wp.txstate.edu))
+- Presented at the National Workshop for REU Research in Networking and Systems 2022 ([link](https://sites.google.com/view/reuns-2022/home))
 
 ***
 
