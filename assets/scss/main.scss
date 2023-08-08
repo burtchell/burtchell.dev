@@ -23,6 +23,11 @@ nav, footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 1rem;
+
+  .right {
+    text-align: right;
+  }
 
   a:link, a:visited {
     color: $nord6;

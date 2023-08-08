@@ -2,7 +2,7 @@
 title: "home"
 ---
 
-# hello.
+# howdy!
 
 I am a PhD student in Computer Science at Texas State University. My current research is on adaptive synthesis of compression algorithms, working with [Martin Burtscher](https://userweb.cs.txstate.edu/~burtscher/) at the
 [Efficient Computing Lab](https://userweb.cs.txstate.edu/~burtscher/research.html).
