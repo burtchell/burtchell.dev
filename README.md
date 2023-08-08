@@ -1,7 +1,3 @@
-# burtchell.dev
+# [burtchell.dev](https://burtchell.dev/)
 
-My personal website created with a bare-bones [Jekyll](https://jekyllrb.com/) template (for reusable html segments) and custom css styling (I like [Nord](https://www.nordtheme.com/)).
-
-## TODO:
-
-- add a blog page (using Jekyll posts)
+My personal website created with a lightweight [Hugo](https://gohugo.io/) theme.

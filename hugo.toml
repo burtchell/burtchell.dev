@@ -1,0 +1,23 @@
+baseURL = 'http://burtchell.dev'
+languageCode = 'en-us'
+title = 'burtchell'
+
+[menu]
+  [[menu.main]]
+    identifier = "cv"
+    name = "cv"
+    url = "/cv"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    url = "/contact"
+    weight = 20
+
+  [[menu.external]]
+    identifier = "Github"
+    pre = "github"
+    url = "https://github.com/dukeofjukes"
+    weight = 10
+

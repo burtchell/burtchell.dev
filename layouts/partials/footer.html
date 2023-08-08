@@ -1,0 +1,7 @@
+<footer>
+	{{ range.Site.Menus.external }}
+  <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer">
+    {{ partial "icon.html" (dict "icon" .Pre "title" .Name ) }}
+  </a>
+  {{ end }}
+</footer>
