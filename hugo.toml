@@ -10,10 +10,16 @@ title = 'burtchell'
     weight = 10
   
   [[menu.main]]
+    identifier = "links"
+    name = "links"
+    url = "/links"
+    weight = 20
+  
+  [[menu.main]]
     identifier = "contact"
     name = "contact"
     url = "/contact"
-    weight = 20
+    weight = 30
 
   [[menu.external]]
     identifier = "Github"
