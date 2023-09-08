@@ -8,6 +8,12 @@ title = 'burtchell'
     name = "cv"
     url = "/cv"
     weight = 10
+
+  [[menu.main]]
+    identifier = "teaching"
+    name = "teaching"
+    url = "/teaching"
+    weight = 15
   
   [[menu.main]]
     identifier = "links"
@@ -26,4 +32,10 @@ title = 'burtchell'
     pre = "github"
     url = "https://github.com/dukeofjukes"
     weight = 10
+
+  [[menu.external]]
+    identifier = "Linkedin"
+    pre = "linkedin"
+    url = "https://www.linkedin.com/in/brandon-burtchell/"
+    weight = 20
 
