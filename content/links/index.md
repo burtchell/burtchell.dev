@@ -1,11 +1,11 @@
 ---
 title: "links"
-lastmod: 2023-08-07
+lastmod: 2023-09-08
 ---
 
 # neat links
 
-Below are some cool websites.
+Below are some cool websites. My inclusion of these sites does not necessarily endorse all the words/actions of these individuals.
 
 - [Jeffrey Morgenthaler](https://jeffreymorgenthaler.com/) - bartender
 - [Kimimi The Game-Eating She-Monster](https://kimimithegameeatingshemonster.com/) - games writer
