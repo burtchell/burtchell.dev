@@ -10,11 +10,11 @@ title = 'burtchell'
     weight = 10
 
   [[menu.main]]
-    identifier = "teaching"
-    name = "teaching"
-    url = "/teaching"
-    weight = 15
-  
+    identifier = "blog"
+    name = "blog"
+    url = "/blog"
+    weight = 12
+
   [[menu.main]]
     identifier = "links"
     name = "links"
