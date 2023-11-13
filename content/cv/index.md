@@ -17,10 +17,10 @@ title: "cv"
 
 ## Publications
 
-### Burtchell, B., Finch, M., and Chen, X. "Self-Driving Vehicle Data Scheduling in Edge Clouds." [[pdf]](./pdf/self_driving_vehicle_data_scheduling_in_edge_clouds.pdf)
+### Burtchell, B., Finch, M., and Chen, X. "Self-Driving Vehicle Data Scheduling in Edge Clouds." [[pdf](./pdf/self_driving_vehicle_data_scheduling_in_edge_clouds.pdf)]
 - Proposed scheduling algorithms to make processing data in a self-driving vehicle more efficient
-- Conducted as part of the Research Experiences for Undergraduates (REU) in Smart & Connected Communities 2021 [[link]](https://reuscc.wp.txstate.edu)
-- Presented at the National Workshop for REU Research in Networking and Systems 2022 [[link]](https://sites.google.com/view/reuns-2022/home)
+- Conducted as part of the Research Experiences for Undergraduates (REU) in Smart & Connected Communities 2021 [[link](https://reuscc.wp.txstate.edu)]
+- Presented at the National Workshop for REU Research in Networking and Systems 2022 [[link](https://sites.google.com/view/reuns-2022/home)]
 
 ***
 
@@ -40,7 +40,7 @@ title: "cv"
 
 ## Awards
 
-### Computer Science Research Excellence Award (2022) [[link]](https://cs.txstate.edu/news_events/awards/awards_day/research_excellence_award/)
+### Computer Science Research Excellence Award (2022) [[link](https://cs.txstate.edu/news_events/awards/awards_day/research_excellence_award/)]
 - Awarded for the research done as part of the NSF REU S&CC
 
 ***
