@@ -6,11 +6,11 @@ title: "cv"
 
 ## Education
 
-### Ph.D. Computer Science - Texas State University (2022-)
+### Ph.D. Computer Science, Texas State University (2022-)
 
 - Concentration in Software Systems
 
-### B.S. Computer Science - Texas State University (2018-2021)
+### B.S. Computer Science, Texas State University (2018-2021)
 
 - Graduated Summa Cum Laude
 - Notable Courses: Parallel Programming, Compiler Construction, Software Engineering, Machine Learning, Artificial Intelligence
@@ -19,11 +19,13 @@ title: "cv"
 
 ## Publications
 
-### Burtchell, B., Finch, M., and Chen, X. "Self-Driving Vehicle Data Scheduling in Edge Clouds." [[pdf](./pdf/self_driving_vehicle_data_scheduling_in_edge_clouds.pdf)]
+### Brandon Alexander Burtchell and Martin Burtscher. "Using Machine Learning to Predict Effective Compression Algorithms for Heterogeneous Datasets." Proceedings of the 2024 Data Compression Conference. March 2024. [[pdf](./pdf/MLcomp.pdf)]
 
-- Proposed scheduling algorithms to make processing data in a self-driving vehicle more efficient
-- Conducted as part of the Research Experiences for Undergraduates (REU) in Smart & Connected Communities 2021 [[link](https://reuscc.wp.txstate.edu)]
-- Presented at the National Workshop for REU Research in Networking and Systems 2022 [[link](https://sites.google.com/view/reuns-2022/home)]
+>Heterogeneous datasets are prevalent in big-data domains. However, compressing such datasets with a single algorithm results in suboptimal compression ratios. This paper investigates how machine-learning techniques can help by predicting an effective compression algorithm for each file in a heterogeneous dataset. In particular, we show how to train a very simple model using nothing but the compression ratios of a few algorithms as features. We named this technique MLcomp. Despite its simplicity, it is very effective as our evaluation on nearly 9,000 files from a heterogeneous dataset and a library of over 100,000 compression algorithms demonstrates. Using MLcomp to pick one lossless algorithm from this library for each file yields an average compression ratio that is 97.8% of the best possible. 
+
+### Brandon Burtchell, Michael Finch, and Xiao Chen. "Self-Driving Vehicle Data Scheduling in Edge-Clouds." Proceedings of the 8th National Workshop for REU Research in Networking and Systems (REUNS 2022), co-located with the IEEE 19th International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS). October 2022. [[pdf](./pdf/self_driving_vehicle_data_scheduling_in_edge_clouds.pdf)]
+
+>In an edge cloud environment, data processing in self-driving vehicles goes through local processing, communication, and remote processing. How to schedule these data for timely processing is critical to guaranteeing the safety of self-driving vehicles. This scheduling problem is related to the flow shop scheduling problem, which is NP-complete. In this paper, different from those in the literature that focus on minimizing makespan, our objective is to develop algorithms that produce schedules to minimize the average waiting time AWT and by taking the priorities of the data types into account since vehicle data are time-sensitive and different data types have different emergency levels. In regard to this objective, we propose two heuristic algorithms: the Priority and AWT-based NEH (PAN) algorithm, and the Priority-based Aalla’s (PAA) algorithm. Simulation results show that our proposed algorithms outperform the preexisting ones and while PAN is a better algorithm when considering our metrics, PAA is more efficient while still producing similarly viable results.
 
 ***
 

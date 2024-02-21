@@ -1,4 +1,6 @@
 $nord0: #2e3440;
+$nord3: #4c566a;
+$nord4: #d8dee9;
 $nord6: #eceff4;
 $nord8: #88c0d0;
 
@@ -57,7 +59,8 @@ li { margin: 0.4rem 0; }
 // *:target { background: yellow; }
 
 main {
-  max-width: 640px;
+  // max-width: 640px;
+  max-width: 700px;
   margin: 0 auto;
   padding: 2.5rem 2rem;
 }
@@ -97,8 +100,8 @@ table, th, td {
 }
 
 code {
-  color: white;
-  background: black; 
+  color: $nord6;
+  background: $nord3; 
   font-size: 80%;
   padding: 0.1em 0.2em;
   font-size: 90%;
@@ -112,9 +115,10 @@ code.has-jax {
 }
 
 blockquote {
-  font-style: italic;
-  border: thin solid black;
+  // font-style: italic;
+  border: thin solid $nord3;
   padding: 1rem;
+  margin: 1rem;
 
   p { margin: 0; }
 }
