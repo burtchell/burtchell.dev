@@ -9,11 +9,11 @@ title = 'burtchell'
     url = "/cv"
     weight = 10
 
-  [[menu.main]]
-    identifier = "blog"
-    name = "blog"
-    url = "/blog"
-    weight = 12
+  # [[menu.main]]
+  #   identifier = "blog"
+  #   name = "blog"
+  #   url = "/blog"
+  #   weight = 12
 
   [[menu.main]]
     identifier = "links"

@@ -19,7 +19,7 @@ title: "cv"
 
 ## Publications
 
-### Brandon Alexander Burtchell and Martin Burtscher. "Using Machine Learning to Predict Effective Compression Algorithms for Heterogeneous Datasets." Proceedings of the 2024 Data Compression Conference. March 2024. [[pdf](./pdf/MLcomp.pdf)]
+### Brandon Alexander Burtchell and Martin Burtscher. "Using Machine Learning to Predict Effective Compression Algorithms for Heterogeneous Datasets." Proceedings of the 2024 Data Compression Conference. March 2024. [[pdf](./pdf/MLcomp.pdf)][[slides](./pdf/MLcomp_Slides.pdf)]
 
 >Heterogeneous datasets are prevalent in big-data domains. However, compressing such datasets with a single algorithm results in suboptimal compression ratios. This paper investigates how machine-learning techniques can help by predicting an effective compression algorithm for each file in a heterogeneous dataset. In particular, we show how to train a very simple model using nothing but the compression ratios of a few algorithms as features. We named this technique MLcomp. Despite its simplicity, it is very effective as our evaluation on nearly 9,000 files from a heterogeneous dataset and a library of over 100,000 compression algorithms demonstrates. Using MLcomp to pick one lossless algorithm from this library for each file yields an average compression ratio that is 97.8% of the best possible. 
 
