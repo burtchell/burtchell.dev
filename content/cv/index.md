@@ -49,6 +49,8 @@ title: "cv"
 
 ## Awards
 
+### Computer Science Research Excellence Award (2024)
+
 ### Computer Science Research Excellence Award (2022) [[link](https://cs.txstate.edu/news_events/awards/awards_day/research_excellence_award/)]
 
 - Awarded for the research done as part of the NSF REU S&CC
