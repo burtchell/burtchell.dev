@@ -30,7 +30,7 @@ title = 'burtchell'
   [[menu.external]]
     identifier = "Github"
     pre = "github"
-    url = "https://github.com/dukeofjukes"
+    url = "https://github.com/burtchell"
     weight = 10
 
   [[menu.external]]
