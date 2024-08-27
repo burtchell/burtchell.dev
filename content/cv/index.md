@@ -52,13 +52,12 @@ title: "cv"
 
 ***
 
-## Awards
+## Awards and Recognition
 
-### Computer Science Research Excellence Award (2024)
-
-### Computer Science Research Excellence Award (2022)
-
-- Awarded for the research done as part of the NSF REU S&CC
+- IISWC 2024 Student Travel Grant (2024)
+- TXST Computer Science Research Excellence Award (2024)
+- RMBL REU Student Travel Grant (2022)
+- TXST Computer Science Research Excellence Award (2022)
 
 ***
 
