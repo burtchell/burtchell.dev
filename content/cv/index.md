@@ -43,7 +43,13 @@ title: "cv"
 - Assisted instruction and grading for *Introduction to Computer Vision*
 - Assisted instruction, grading, and exam proctoring for *Introduction to Computer Science*
 
-### Kohl's (2023)
+### Simuli Inc. (Summer 2024)
+
+#### CUDA Engineer (Intern/Contract)
+
+- Translated the [Nebuli](https://www.simuli.ai/Nebuli-FAQs/) compressor to CUDA code to speed up execution via NVIDIA GPUs
+
+### Kohl's (Summer 2023)
 
 #### Software Engineer Intern
 
@@ -63,6 +69,6 @@ title: "cv"
 
 ## Skills
 
-Professional Level: CUDA, C++, Python, Java, Git, Linux
+Professional Level: CUDA, HIP/ROCm, C++, Python, Java, Git, Linux
 
-Amateur Level: Godot/GDScript, C#, Unity Engine, HTML, CSS, JavaScript
+Amateur Level: React, JavaScript, HTML, CSS, Godot/GDScript, C#, Unity Engine
