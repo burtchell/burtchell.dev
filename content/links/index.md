@@ -7,7 +7,7 @@ lastmod: 2024-11-20
 
 Below are some cool websites. My inclusion of these sites does not necessarily endorse all the words/actions of these individuals.
 
-- [Earthbound Battle Background Generator](https://www.gjtorikian.com/Earthbound-Battle-Backgrounds-JS/) - one day I'll find a use for this
+- [Earthbound Battle Backgrounds](https://www.gjtorikian.com/Earthbound-Battle-Backgrounds-JS/) - one day I'll find a use for this
 - [LAN Party House](https://lanparty.house/) - totally a flex, but cool nonetheless
 - [Die, Workwear!](https://dieworkwear.com/) - cultural/historical analyses of classic menswear
 - [Supper Mario Broth](https://www.suppermariobroth.com/) - a long-running blog posting interesting artifacts from the world of Super Mario Bros.
