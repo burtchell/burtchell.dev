@@ -39,3 +39,8 @@ title = 'burtchell'
     url = "https://www.linkedin.com/in/brandon-burtchell/"
     weight = 20
 
+  [[menu.external]]
+    identifier = "Itchio"
+    pre = "itchio"
+    url = "https://dukeofjukes.itch.io/"
+    weight = 30
