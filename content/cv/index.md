@@ -9,14 +9,10 @@ title: "cv"
 ### PhD Computer Science, Texas State University (Aug 2023 - Present)
 
 - Expected Graduation: Dec 2026
-<!-- - Concentration in Software Systems -->
 
 ### BS Computer Science, Texas State University (Aug 2018 - Dec 2021)
 
 - Graduated Summa Cum Laude
-<!-- - Notable Courses: Parallel Programming, Compiler Construction, Software Engineering, Machine Learning -->
-
-<!-- *** -->
 
 ## Employment
 
@@ -31,10 +27,8 @@ title: "cv"
 
 #### Simuli (Jun 2024 - Sep 2024)
 
-
 - Translated *Nebuli* compressor from C to CUDA to parallelize on Nvidia GPUs
 - Skills used: CUDA, C/C++, Python
-
 
 ### Intern, Software Engineer
 
@@ -42,7 +36,6 @@ title: "cv"
 
 - Maintained full stack for ML-based supply-chain forecasting web application
 - Skills used: Java, JavaScript, React, Spring Boot, SQL
-
 
 ## Publications
 
@@ -76,15 +69,8 @@ Heterogeneous datasets are prevalent in big-data domains. However, compressing s
 In an edge cloud environment, data processing in self-driving vehicles goes through local processing, communication, and remote processing. How to schedule these data for timely processing is critical to guaranteeing the safety of self-driving vehicles. This scheduling problem is related to the flow shop scheduling problem, which is NP-complete. In this paper, different from those in the literature that focus on minimizing makespan, our objective is to develop algorithms that produce schedules to minimize the average waiting time AWT and by taking the priorities of the data types into account since vehicle data are time-sensitive and different data types have different emergency levels. In regard to this objective, we propose two heuristic algorithms: the Priority and AWT-based NEH (PAN) algorithm, and the Priority-based Aalla’s (PAA) algorithm. Simulation results show that our proposed algorithms outperform the preexisting ones and while PAN is a better algorithm when considering our metrics, PAA is more efficient while still producing similarly viable results.
 {{</details>}}
 
-<!-- ## Awards and Recognition -->
-<!---->
-<!-- - IISWC 2024 Student Travel Grant (2024) -->
-<!-- - TXST Computer Science Research Excellence Award (2024) -->
-<!-- - RMBL REU Student Travel Grant (2022) -->
-<!-- - TXST Computer Science Research Excellence Award (2022) -->
-
 ## Skills
 
 Professional: C, C++, CUDA, OpenMP, Python, Java, HIP/ROCm
 
-Novice Level: JavaScript, React, Godot (GDScript), Docker, MATLAB, SQL
+Novice: JavaScript, React, Godot (GDScript), Docker, MATLAB, SQL
