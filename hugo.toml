@@ -2,6 +2,11 @@ baseURL = 'http://burtchell.dev'
 languageCode = 'en-us'
 title = 'burtchell'
 
+# recommended in https://gohugo.io/host-and-deploy/host-on-github-pages/
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menu]
   [[menu.main]]
     identifier = "cv"
